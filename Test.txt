@@ -1,5 +1,8 @@
 Introduction blah blah blah
 
-Start the EDA here...
+This is my EDA...
+let's plot a scatterplot...
+gkhskgs
+skjhgslkg
 
 This is line 3
